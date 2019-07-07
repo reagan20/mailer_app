@@ -28,6 +28,5 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 *.sublime-workspace
 *.sublime-project
 mail_test.sql
-user_guide/
 application.zip
 .editorconfig
